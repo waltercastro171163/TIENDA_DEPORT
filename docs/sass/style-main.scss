@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
-$main-color : hsl(115, 68%, 77%);
+$main-color : hsl(226, 64%, 89%);
+$var_color:hsl(0, 4%, 5%);
 
 
 .colorbg{
@@ -10,6 +11,12 @@ $main-color : hsl(115, 68%, 77%);
  .margin a{
    margin: 8px;
  }
+
+ .fondo{
+   background-color: $var_color;
+ }
+
+
 p{
  font-family: 'Roboto', 'Times New Roman', Times, serif;
  font-size: 20px;
