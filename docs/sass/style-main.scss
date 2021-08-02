@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
 $main-color : hsl(226, 64%, 89%);
 $var_color:hsl(0, 4%, 5%);
+$promocion_color:rgb(243, 71, 41);
 
 
 .colorbg{
@@ -13,9 +14,7 @@ $var_color:hsl(0, 4%, 5%);
  }
 
  .fondo{
-   background-color: $var_color;
-  
-  
+   background-color: $var_color;   
  }
 
 
@@ -65,4 +64,7 @@ p{
  border-radius: 25px;
  padding: 15px;
  
+}
+.promocion{
+  background-color: $promocion_color;
 }

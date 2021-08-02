@@ -1,0 +1,266 @@
+01:34:03	Agustin Fernandez:	recodin im progruas
+01:34:13	[tutora]Eugenia Rubio:	Buenas!
+01:34:13	(M)Jonathan Sarmiento Espitia:	jajajaja
+01:34:14	Agustin Andres Dubreuil:	Puede ser que no haya audio o soy yo?
+01:34:19	(M)Jonathan Sarmiento Espitia:	si
+01:34:21	Maria Agustina Rocha:	si
+01:34:21	Agustin Fernandez:	si se escucha
+01:34:22	Lucas Carranza:	sisi
+01:34:23	Juani Aureliano Quevedo:	yo escucho bien
+01:34:23	CARLOS R VERGER:	SI
+01:34:25	Agustin Andres Dubreuil:	ow shet
+01:34:26	Agustin Andres Dubreuil:	oka
+01:34:27	Lorena Baldazar:	sisi
+01:34:33	Maximiliano Cardenas:	buenas chicos
+01:34:35	Maximiliano Cardenas:	como están?
+01:34:50	Juan Diego Ocaranza García:	Hola! Todo bien!
+01:34:52	Juani Aureliano Quevedo:	sobrevivimos yay
+01:34:52	[Tutor] Gonzalo Manoukian:	Hola Chicos! A mis alumnos, veo que tengo mensajes en el chat pero no puedo ingresar :( En cuanto pueda respondo todo!
+01:35:18	Lucas Villar:	*llora
+01:35:33	Lucas Carranza:	parte de venta?
+01:36:02	Juani Aureliano Quevedo:	hay que saber hacer el servicio y también cobrarlo xD
+01:36:04	Santiago España:	buenas!!
+01:41:31	[tutor]Maximiliano Cardenas:	claro
+01:46:49	[TUTORA] Vanina:	la pirámide de necesidades de maslow
+01:48:13	[TUTORA] Vanina:	Consumidor La persona que compra un producto o servicio. Cliente La persona que compra habitualmente en la misma empresa consumidor habitual. Usuario La persona que disfruta habitualmente de un servicio o del empleo de un producto-- en nuestro caso el cliente seria a veces una empresa que tiene un consumidor final totalmente diferente a las necesidades que vamos a cumplir en nuestro cliente
+01:55:15	[tutor]Maximiliano Cardenas:	cualquier duda chicos vayna hablando por plataforma :D
+02:02:33	Lucas Villar:	ft. maslow
+02:04:51	[TUTORA] Vanina:	apuntamos a las necesidades de autorrealización con productos que no son masivos básicos
+02:05:06	[TUTORA] Vanina:	o de autoestima o sociales por ejemplo
+02:05:09	Lucas Carranza:	UX?
+02:05:12	[TUTORA] Vanina:	desde ahí se arranca
+02:05:39	Lucas Carranza:	un bot
+02:05:42	Lucas Villar:	jajaja
+02:06:36	Lucas Villar:	mc king
+02:06:49	Juani Aureliano Quevedo:	pido comida como parte de pago :v
+02:07:38	Lucas Carranza:	cla pareciera una empresa de delivery mas que de comida rapida
+02:07:49	Juani Aureliano Quevedo:	la comida
+02:07:52	Agustin Andres Dubreuil:	Fotos de la comida
+02:07:57	Agustin Andres Dubreuil:	bien grande
+02:08:04	Agustin Andres Dubreuil:	para que les de ganas de comer
+02:08:13	Renzo Pessoli:	Delibery puede ser una sección dentro del index, como un servicio mas
+02:08:27	Nahuel Rocha:	Le hago un nav con imágenes de un tay, un pancho, una coquita...
+02:08:32	Nahuel Rocha:	Paty*
+02:08:41	Juani Aureliano Quevedo:	bueno, profe, no hace falta tanta descripción jajajaja
+02:08:52	Lucas Carranza:	se te cae la baba
+02:08:52	[Tutor] Gonzalo Manoukian:	Que hambre ahora :(
+02:09:36	[Tutor] Gonzalo Manoukian:	Sin tomate para mi, muy sano si no (?
+02:10:41	Juani Aureliano Quevedo:	la plata, la plata
+02:10:41	Lucas Carranza:	empezó a pensar con el bolsillo
+02:11:25	Carlos ruiz:	Yo aún pienso en comida, ese big Mac sonó muy boen
+02:11:51	Juani Aureliano Quevedo:	encima está lejos para pedirle que se ponga con unas hamburguesas jajaja
+02:12:49	Lucas Villar:	seguro de viviendas
+02:12:59	Lucas Villar:	te lei la mente
+02:13:36	Juani Aureliano Quevedo:	seguro contra incendio que lo piden en los contratos de vivienda xD
+02:14:06	Lucas Villar:	foto de familia europea heterosexual sonriente es lo que vende
+02:14:06	Lucas Carranza:	laburan con el miedo
+02:14:09	[TUTORA] Vanina:	ajja
+02:15:07	Juani Aureliano Quevedo:	límites éticos, el marketing no entiende de eso xD
+02:15:20	Lucas Villar:	claaaro
+02:15:38	Lucas Villar:	tinder
+02:15:48	Juani Aureliano Quevedo:	redes sociales en general
+02:18:53	Juani Aureliano Quevedo:	a veces te sentís highlander
+02:19:22	Renzo Pessoli:	En Argentina estamos en modo zen con la inseguridad a esta altura
+02:19:59	[tutor]Maximiliano Cardenas:	jaja
+02:20:29	Lucas Villar:	todo es cuestion de prioridades
+02:20:39	Lucas Villar:	modificable por las emociones
+02:26:10	Lucas Carranza:	Eso seria armar el famoso user/persona?
+02:26:45	[TUTORA] Vanina:	buyer persona si
+02:26:57	[TUTORA] Vanina:	contestar las preguntas sobre el usuario
+02:29:39	Lorena Baldazar:	ok
+02:29:39	Lucas Villar:	dale
+02:29:39	Maria Agustina Rocha:	si
+02:29:41	Maria Agustina Rocha:	jaja
+02:29:44	Daniela Alvarez:	ok
+02:29:47	Juani Aureliano Quevedo:	sale música nomás
+02:29:49	[tutor]Maximiliano Cardenas:	okay
+02:29:50	Agustin Fernandez:	Musica Presupuestaria
+02:30:00	[TUTORA] Vanina:	jaj
+02:30:12	Lucas Villar:	jajajaaj musica presupuestaria
+02:31:17	Juani Aureliano Quevedo:	el profe se fue a comer a mostaza y no nos puso la música jaja
+02:31:17	[Tutora] Agustina Pochettino:	ahi t hable al slack
+02:31:18	[Tutora] Agustina Pochettino:	jajaj
+02:31:21	[Tutora] Agustina Pochettino:	seguimos por ahi
+02:31:26	[Tutora] Agustina Pochettino:	uh eso iba para angelo
+02:31:26	[Tutora] Agustina Pochettino:	xd
+02:32:48	Lucas Carranza:	Aguante el pity ! <3
+02:36:28	Lucas Villar:	estaba rico mostaza profe?
+02:36:30	Juani Aureliano Quevedo:	claro, necesita la hamburguesa
+02:36:31	Agustin Fernandez:	complicado tenerlo de cliente al pity, necesita muchas cosas
+02:36:52	Lucas Villar:	JAJAJA
+02:36:58	Lucas Carranza:	Un sitio de hormigas le gustaria
+02:37:06	Nicolás M. Barra Pelecano:	hamburguesa para el pity no, si nunca tiene hambre!
+02:37:21	Lucas Carranza:	si
+02:37:22	Juani Aureliano Quevedo:	tamo
+02:37:27	Lorena Baldazar:	Sisi, estamos
+02:37:28	Lucas Villar:	redi
+02:37:28	Agustin Fernandez:	yea
+02:37:30	[tutor]Maximiliano Cardenas:	ready
+02:39:51	Lucas Carranza:	el presupuestero
+02:41:00	ilse moreno:	Le explotaron?
+02:41:09	Lucas Carranza:	Dario y recomendas arrancar habiendo terminado el curso ? porque estaríamos muy limitados con solo HTML y css
+02:41:33	Renzo Pessoli:	Yo creería que después de terminar la carrera
+02:41:42	[Tutora] Agustina Pochettino:	saber q t elo van a pagar si o si
+02:41:46	Lucas Villar:	me sumo a la pregunta de arriba. Que trabajos podriamos aplicar con este curso?
+02:41:49	Juani Aureliano Quevedo:	cada empresa trabaja de una forma particular, en cada empresa van a buscar moldearte a su forma, hay que saber adaptarse
+02:42:15	Lucas Carranza:	si
+02:42:28	Lucas Carranza:	tenia la idea de hacerme tarjetas y tirarlas por todoslados jaja
+02:42:56	Juani Aureliano Quevedo:	la tecnología avanza tan rápido jaja
+02:44:06	Lucas Carranza:	Mañana renuncio y me hago freelance
+02:44:50	Juani Aureliano Quevedo:	más allá de eso, Google es amigo
+02:44:51	Renzo Pessoli:	O armamos una empresa con el numero de la camada
+02:44:55	[Tutora] Agustina Pochettino:	les recomiendo hacer la certificación de responsive web design: https://www.freecodecamp.org/  que les da la posibilidad de hace rmini poryectos y practicar
+02:45:01	[Tutora] Agustina Pochettino:	es gratiss
+02:45:12	Lucas Villar:	graciaaas
+02:45:20	[tutor]Maximiliano Cardenas:	maquetadores web
+02:46:00	Maria Camila Santos Galeano:	En donde podemos postularnos como freelance?
+02:46:10	[Tutora] Agustina Pochettino:	fiver
+02:46:11	[Tutora] Agustina Pochettino:	workana
+02:46:20	Maria Camila Santos Galeano:	Una que sea fiable
+02:47:22	Juani Aureliano Quevedo:	en mi experiencia, las empresas grandes son las peores a nivel ambiente laboral, mucha competitividad y política
+02:47:45	Lucas Villar:	se suele cobrar en dolares? o solo para clientes extranjeros?
+02:48:09	Lucas Carranza:	que me paguen en btc !!!!
+02:48:12	Juan Ling:	JAJA
+02:48:14	[Tutora] Agustina Pochettino:	ojo con el tema del cobro en usd aca en arg ajjaj
+02:48:32	Maria Camila Santos Galeano:	Como saber cuanto cobrar?
+02:48:36	Lucas Carranza:	Quiero trabajar hasta los 40 max
+02:48:53	Karen Castellar Suárez:	Yo he hecho trabajitos con Wordpress porque es lo que sabía al momento y he despreciado trabajos por no saber lo del Desarrollo más a fondo…lo que toca es darse a conocer y seguridad ante todo :)
+02:49:40	Juani Aureliano Quevedo:	también en el freelance suele haber menos intermediarixs que saquen su tajada
+02:49:58	Lucas Villar:	dale
+02:50:52	[tutor]Maximiliano Cardenas:	tal cual Karen es animarse un poco.
+02:51:13	Karen Castellar Suárez:	Yes yes
+02:54:06	Juani Aureliano Quevedo:	también la cuestión de mantenimiento
+02:56:31	[tutor]Maximiliano Cardenas:	php sql y MySQL si lo pueden aprender
+02:56:34	[tutor]Maximiliano Cardenas:	es clave
+02:56:44	Lucas Villar:	y eso lo consultas con los profesionales antes?
+02:56:45	Lucas Carranza:	no-sql que seria?
+02:56:55	Lucas Villar:	osea tenes que saber cuales son sus presupuestos
+02:57:51	[TUTORA] Vanina:	asistencia pasada,
+02:57:55	[TUTORA] Vanina:	el que no le llego me escirbe
+03:01:08	Renzo Pessoli:	Hacer el presupuesto mismo se cobra, no?
+03:01:59	Juani Aureliano Quevedo:	como la tiene con las puertas, profe
+03:02:03	(M)Jonathan Sarmiento Espitia:	ajajaja
+03:02:15	[Tutor] Gonzalo Manoukian:	Tiene acciones en Pentágono profe?
+03:02:20	Juani Aureliano Quevedo:	los pollos hermanos
+03:02:20	Renzo Pessoli:	Jaja y si te piden hacer una maqueta y todo?
+03:02:39	Renzo Pessoli:	Aguanta hermano
+03:02:43	Renzo Pessoli:	Jaja
+03:02:53	Renzo Pessoli:	Claro, a eso me refería
+03:03:20	[Tutora] Agustina Pochettino:	y si les confirman el presu.. cobren el 50% para arrancara laburar
+03:06:16	Lucas Carranza:	esqueleto
+03:06:23	Lucas Villar:	wirefrmae
+03:06:33	Lucas Villar:	uaierfreim
+03:07:57	Karen Castellar Suárez:	Se deberían primero calcular los gastos mensuales fijos, luego eso se divide entre 30 y lo que de se divide entre el número de horas diarias y ese es el costo  por hora…luego cuantas horas me demoro haciendo cada sección sería una opción para dar presupuesto
+03:08:27	Lucas Villar:	profe, esta fase 1 suele ser despues de aprobarse el presupuesto?
+03:08:40	Lucas Carranza:	no se puede especificar en el contrato que las primeras 3 correcciones son gratis y después se cobra un extra?
+03:08:58	Lucas Carranza:	cla, para que no se pongan tan quisquillosos jaja
+03:09:04	Lucas Villar:	soles firmar contratos prfe?
+03:09:13	Juani Aureliano Quevedo:	se puede acordar un número de correcciones
+03:09:16	Juani Aureliano Quevedo:	no?
+03:09:49	Lucas Villar:	en la fase 3 si te dicen "ni mi gisti isti cilir" que haces?
+03:09:51	Lucas Carranza:	aaaah son giladitas
+03:09:52	Juani Aureliano Quevedo:	no a ese nivel, profe, sino de diseño
+03:09:53	[Tutora] Agustina Pochettino:	strike 3
+03:09:53	[Tutora] Agustina Pochettino:	xd
+03:10:06	Lucas Villar:	jajajajaja
+03:10:26	CARLOS R VERGER:	pero el cliente no siempre tiene razon
+03:10:31	Lucas Villar:	quiza tiene que ver con el character y la actitud de cada uno
+03:10:36	Juani Aureliano Quevedo:	pero hay clientes que te pueden pedir 15 correcciones en dos días jajaja
+03:10:42	Renzo Pessoli:	los clientes y los programadores son enemigos naturales(?
+03:11:12	Karen Castellar Suárez:	Así es profe!!
+03:11:18	[tutor]Maximiliano Cardenas:	jajajaja
+03:11:26	Renzo Pessoli:	Jaja es una frase de los simpsons profe
+03:11:31	Fabiane Santos:	jajaja
+03:11:51	Daniela Alvarez:	amigo del alma
+03:12:00	Lucas Villar:	te ha pasado que en fase 3 quieran modificar algo importante que correspondia a fase 1?
+03:12:03	Juani Aureliano Quevedo:	un cliente es una luz que brilla en la oscuridad
+03:12:05	Renzo Pessoli:	Igualmente yo vendo al público y si, lo peor son los que no tienen idea de lo que quieren y te dan mil vueltas
+03:12:24	[tutor]Maximiliano Cardenas:	tal cual renzo
+03:12:48	(M)Jonathan Sarmiento Espitia:	ohhh
+03:13:06	Lucas Villar:	claro
+03:13:11	Juani Aureliano Quevedo:	es parte de trabajar con un cliente
+03:13:12	Lucas Villar:	esta bien
+03:13:13	Lucas Carranza:	PERO AHI MODIFICAS EL PRESUPUESTO? PORQUE ES UN CONTRATIEMPO
+03:13:18	Lucas Carranza:	Ug perdón por las matus
+03:13:35	Santiago España:	se enojo lucas
+03:13:36	Santiago España:	jajajaja
+03:13:43	Juani Aureliano Quevedo:	lucas, no grites
+03:14:09	[tutor]Maximiliano Cardenas:	jaja
+03:14:40	Juani Aureliano Quevedo:	si estás por entregar y tenes que hacer casi todo de nuevo, se hace otro presupuesto
+03:15:39	Daniela Alvarez:	Que mi socio soy yo mismo jajaj
+03:16:10	Lucas Carranza:	Un mail dipplomatico
+03:17:00	Juani Aureliano Quevedo:	llevo 5 años en programación jaja el cliente es un entre enigmático jajaja nunca se sabe qué giro puede dar
+03:18:38	Lucas Villar:	fase 3 seria un url de GitHub?
+03:18:42	Lucas Villar:	o todavia no tanto?
+03:20:21	Juani Aureliano Quevedo:	si hay testers, ideal
+03:21:35	(M)Jonathan Sarmiento Espitia:	a lo cyberpunk
+03:21:48	[TUTORA] Vanina:	Camila IngolottiMichel Silva NakassuguiSebastian Garcia Nallar
+03:21:53	[TUTORA] Vanina:	están presentes?
+03:22:19	Lucas Villar:	recien ahi "compras" el hosting?
+03:22:50	Juani Aureliano Quevedo:	utn flashbacks
+03:23:38	Agustin Andres Dubreuil:	A la hora de los pagos y como manejarse "legalmente" es necesario ser monotributista, hay alguna especie de tramite por hacer?? (Siempre hablando como freelance)
+03:24:29	Juani Aureliano Quevedo:	para hacerlo legal tenes que hacer el monotributo y un trámite para pagar ingresos brutos
+03:25:18	Juani Aureliano Quevedo:	haciendo declaraciones juradas y pagando a sifere
+03:25:27	Juani Aureliano Quevedo:	al menos en argentina
+03:25:30	Agustin Andres Dubreuil:	Pero seria lo que hace la mayoría o no hace tanta falta?
+03:25:41	[tutor]Maximiliano Cardenas:	testa muy buena esa.
+03:25:47	Flavia Franco:	aguante trello!
+03:26:27	Agustin Andres Dubreuil:	Perfecto, gracias por la respuesta!
+03:26:28	Lucas Villar:	llegado el caso hablen con un contador
+03:27:10	Juani Aureliano Quevedo:	para el monotributo no tanto, pero para iibb sí conviene contadore
+03:31:56	Flavia Franco:	hay que cobrar en dólares!
+03:32:22	Lucas Carranza:	no hay un regulador oficial ?
+03:32:34	Juani Aureliano Quevedo:	cambia según el seniority
+03:32:35	[Tutor] Gonzalo Manoukian:	No hay sindicato ni nada por el estilo para nuestro rubro
+03:32:52	(M)Jonathan Sarmiento Espitia:	cuanto es eso en usd profe
+03:33:04	Agustin Fernandez:	Gonza, armemos uno
+03:33:27	Nicolás M. Barra Pelecano:	existe el gremio de trabajadores informáticos!
+03:33:30	[TUTORA] Vanina:	mañana hay after a las 18.30
+03:33:31	Lucas Carranza:	apoyo la moción con toda violencia
+03:33:52	Nicolás M. Barra Pelecano:	soy el socio 42389
+03:33:59	Lucas Carranza:	La luz, alquiler, internet ?
+03:34:51	Santiago España:	1000 usd por hora, cha factura el profe
+03:34:57	CARLOS R VERGER:	eso son 10 usd?
+03:35:01	Lucas Villar:	$60000 pesos argentinos son poco mas de 300 dolares (dolar blue) para los que son de afuera. a valor oficial seran 500 dolares maso
+03:35:17	Lucas Carranza:	Dario vos cobras eso en base a toda la experiencia y conocimiento que tenes, a nosotros cuanto nos recomendas cobrar por hora ?
+03:37:48	Lucas Villar:	$1000 por dia sabiendo que dedicas 2 horas por dia aprox no?
+03:38:13	Lucas Villar:	claro
+03:38:33	Javier Araya:	profe lo que esta cotizando es en base a un sitio a puro css? no incluye backend?
+03:39:07	Flavia Franco:	sino piensan que no haces nada, por desconocimiento
+03:39:57	Juani Aureliano Quevedo:	el objetivo vendría a ser como el alcance, no?
+03:40:20	Lucas Villar:	"desarrollar una plataforma de chat de coder que funcione bien" ndeaah
+03:44:28	Lucas Villar:	lo normal es que de los gastos fijos (licencias, hosting, dominio) se encargue el cliente?
+03:44:58	Lucas Villar:	le indicas como y ya
+03:45:06	Lucas Villar:	supongo que quedara adherido a alguna tarjeta
+03:45:59	Lucas Villar:	el mismo porcentaje por fase ?
+03:46:28	[tutor]Maximiliano Cardenas:	si lucas
+03:46:43	[tutor]Maximiliano Cardenas:	vos le podes ofrecer asesoría
+03:47:50	Lucas Villar:	actualizacion de precios (algo muy frecuente) lo cobras como actualizacion de contenido?
+03:48:10	Lucas Carranza:	8000000 horas
+03:50:17	Agustin Fernandez:	joya
+03:50:18	Enmanuel Sandoval:	Oka buenisimo
+03:50:23	[tutor]Maximiliano Cardenas:	cualquier cosa avisen nos vemos
+03:50:23	Gaby Bencomo:	buenisimo
+03:50:31	Lucas Villar:	gracias
+03:50:34	Lucas Villar:	buena noche!
+03:50:35	Juan Ling:	Chau
+03:50:35	Maria Agustina Rocha:	buenas noches!
+03:50:35	Gaby Bencomo:	gracias
+03:50:39	Lucas Carranza:	Buenas noches !
+03:50:41	Enmanuel Sandoval:	Chau descansen
+03:50:41	Juani Aureliano Quevedo:	buenas noches
+03:50:42	Karen Castellar Suárez:	Chao a todos!
+03:50:42	Juani Aureliano Quevedo:	saludos
+03:50:42	Cristina Bock:	Gracias!
+03:50:42	Paola Pavese:	Gracias, profe! Buenas noches!
+03:50:43	Santiago España:	buenas nochees!
+03:50:43	[TUTORA] Vanina:	nos vemos
+03:50:43	Victoria Yen:	Buenas noches
+03:50:44	Juan Diego Ocaranza García:	Buenas noches a todos!
+03:50:44	Arturo Keck:	gracias
+03:50:45	Daniela Alvarez:	saludos
+03:50:46	Lucas Villar:	musica de cierre*
+03:50:46	Lorena Baldazar:	gracias profe! buenas noches.
+03:50:49	Santiago España:	+
+03:50:49	Arturo Keck:	chau
+03:50:52	thomas merida:	Nos vemos
